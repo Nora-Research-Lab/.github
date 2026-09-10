@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="http://nora-research-lab.vercel.app/">nora-research-lab.vercel.app</a>
+  🌐 <a href="https://www.noraresearchlab.site">nora-research-lab.vercel.app</a>
 </p>
 
 ---
